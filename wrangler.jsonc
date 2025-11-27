@@ -1,6 +1,6 @@
 {
     "$schema": "./node_modules/wrangler/config-schema.json",
-    "name": "sandbox-runner",
+    "name": "sandbox",
     "compatibility_date": "2025-04-03",
     "main": "./src/index.tsx"
 }
