@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       preact:
-        specifier: ^10.26.9
+        specifier: ^10.27.2
         version: 10.27.2
       preact-iso:
         specifier: ^2.11.0
